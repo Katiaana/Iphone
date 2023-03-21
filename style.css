@@ -116,8 +116,8 @@ li {
 }
 
 .iphone {
-    width: 400px;
-    margin-top: 80px; /*margem em cima da imagem distante 100px*/
+    width: 300px;
+    margin-top: 80px; /*margem em cima da imagem distante 80px*/
     z-index: 99;
 }
 
